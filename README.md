@@ -1,5 +1,5 @@
 ## Local-Weather
-#### Check it out [here](https://c0d0er.github.io/Local-Weather/)
+#### Check it out [here](http://localweather1.surge.sh/)
 
 #### Fulfill the below user stories:
 - User Story: I can see the weather in my current location.
