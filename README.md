@@ -1,5 +1,5 @@
-## Simon-Game
-#### Check it out [here](https://c0d0er.github.io/Simon-Game/)
+## Local-Weather
+#### Check it out [here](https://c0d0er.github.io/Local-Weather/)
 
 #### Fulfill the below user stories:
 - User Story: I can see the weather in my current location.
