@@ -1,36 +1,36 @@
-body
-{
-  background:
-  url(https://static.pexels.com/photos/6498/sea-dawn-sky-sunset.jpg) 
-no-repeat center center fixed;
-  color: black;
-background-size: cover;  
+body {
+    background: url(https://static.pexels.com/photos/6498/sea-dawn-sky-sunset.jpg) no-repeat center center fixed;
+    color: black;
+    background-size: cover;
 }
-.weather-area{
-width: 750px;
-background-color:rgba(0,25,0,0.2);
-margin-top: 70px;
-margin-left: auto;
+
+.weather-area {
+    width: 750px;
+    background-color: rgba(0, 25, 0, 0.2);
+    margin-top: 70px;
+    margin-left: auto;
     margin-right: auto;
-
-padding-top: 10px;
-
-padding-bottom: 10px;
-border-radius: 30px;
-color:white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 30px;
+    color: white;
 }
-.weather-general{
+
+.weather-general {
     font-size: 60px;
 }
-.weather-temp{
+
+.weather-temp {
     font-size: 60px;
 }
-.temp-icon{
+
+.temp-icon {
     font-size: 420%;
-    cursor:pointer;  
+    cursor: pointer;
     color: #004396;
 }
-#weather-icon{
+
+#weather-icon {
     width: 5em;
     height: auto;
 }
